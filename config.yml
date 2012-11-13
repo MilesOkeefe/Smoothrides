@@ -1,0 +1,5 @@
+# default config.yml
+
+boats_deploy_on_exit: true
+carts_deploy_on_exit: true
+boats_break_lilypads: true
